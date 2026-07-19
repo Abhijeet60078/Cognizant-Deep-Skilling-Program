@@ -1,5 +1,9 @@
 # Cognizant-Deep-Skilling-Program
 
+This repository contains all my hands-on exercises, coding assignments, and projects completed as part of the Cognizant Deep Skilling Program.
+
+It showcases my learning journey across Core Java, Data Structures & Algorithms, Spring Framework, Spring Boot, ReactJS, Git, JUnit, Mockito, Logging Frameworks, PL/SQL, and Design Patterns.
+
 ## Branching Structure
 
 ```text
